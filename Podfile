@@ -1,6 +1,6 @@
 platform :ios, '6.0'
 
-pod 'BlocksKit'
+pod 'BlocksKit', :git => 'https://github.com/pandamonia/BlocksKit.git', :branch => 'next'
 pod 'ObjcAssociatedObjectHelpers'
 pod 'libextobjc/EXTSwizzle', '0.3'
 pod 'libextobjc/EXTScope', '0.3'
